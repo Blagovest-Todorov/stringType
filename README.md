@@ -1,0 +1,2 @@
+# stringType
+string
