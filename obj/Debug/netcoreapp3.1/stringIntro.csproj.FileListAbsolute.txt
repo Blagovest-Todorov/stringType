@@ -1,0 +1,12 @@
+C:\Users\Bla\source\repos\Solution3\stringIntro\bin\Debug\netcoreapp3.1\stringIntro.exe
+C:\Users\Bla\source\repos\Solution3\stringIntro\bin\Debug\netcoreapp3.1\stringIntro.deps.json
+C:\Users\Bla\source\repos\Solution3\stringIntro\bin\Debug\netcoreapp3.1\stringIntro.runtimeconfig.json
+C:\Users\Bla\source\repos\Solution3\stringIntro\bin\Debug\netcoreapp3.1\stringIntro.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\Solution3\stringIntro\bin\Debug\netcoreapp3.1\stringIntro.dll
+C:\Users\Bla\source\repos\Solution3\stringIntro\bin\Debug\netcoreapp3.1\stringIntro.pdb
+C:\Users\Bla\source\repos\Solution3\stringIntro\obj\Debug\netcoreapp3.1\stringIntro.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\Solution3\stringIntro\obj\Debug\netcoreapp3.1\stringIntro.AssemblyInfo.cs
+C:\Users\Bla\source\repos\Solution3\stringIntro\obj\Debug\netcoreapp3.1\stringIntro.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\Solution3\stringIntro\obj\Debug\netcoreapp3.1\stringIntro.dll
+C:\Users\Bla\source\repos\Solution3\stringIntro\obj\Debug\netcoreapp3.1\stringIntro.pdb
+C:\Users\Bla\source\repos\Solution3\stringIntro\obj\Debug\netcoreapp3.1\stringIntro.genruntimeconfig.cache
